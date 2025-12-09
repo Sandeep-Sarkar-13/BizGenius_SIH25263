@@ -124,6 +124,9 @@ Built the user interface using React, integrated camera streaming UI elements, d
 
 🌱 Sarthak Sardar – IoT & Research Analyst
 
+
+GITHUB REPO LINK - https://github.com/Sandeep-Sarkar-13/BizGenius_SIH25263.git
+
 Worked on IoT integrations for live field sensor data, researched agricultural advisory datasets, pesticide standards, and government scheme documentation.
 
 🛠 Monojit Das – Hardware Developer
