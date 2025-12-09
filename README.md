@@ -103,3 +103,29 @@ Farmer Panel Dashboard
 AI Crop Detection Screen
 
 Insurance Submission Screen
+
+
+👨‍💻 Team Members – Smart India Hackathon 2025 (FarmEasy Project & BizGenius Team)
+⭐ Sandeep Sarkar – Team Lead
+
+Responsible for overall project coordination, deployment workflow, stakeholder interaction, and ensuring timely milestone delivery.
+
+🤖 Atyasha Bhattacharyya – Machine Learning Engineer
+
+Developed crop disease detection models, yield prediction pipeline, dataset preparation, and ML integration with the FarmEasy backend API.
+
+🔧 Subhanjan Saha – Backend Developer
+
+Designed secure REST APIs, authentication services, farmer onboarding logic, policy management modules, and MongoDB schema architecture.
+
+🎨 Ishaan Karmakar – Frontend Developer
+
+Built the user interface using React, integrated camera streaming UI elements, dashboard screens, and ensured responsive and multilingual compatibility.
+
+🌱 Sarthak Sardar – IoT & Research Analyst
+
+Worked on IoT integrations for live field sensor data, researched agricultural advisory datasets, pesticide standards, and government scheme documentation.
+
+🛠 Monojit Das – Hardware Developer
+
+Designed embedded solutions, camera rig prototypes for field capture, connectivity hardware, and supported field deployment testing.
