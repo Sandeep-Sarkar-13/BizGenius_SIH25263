@@ -1,0 +1,282 @@
+[
+  {
+    "farmer": "692ab6830c013c1a8244ad48",
+    "policyNumber": "POL-2025-003",
+    "crop": "Rice",
+    "sowingDate": "2025-06-10",
+    "fieldArea": 2.2,
+    "areaUnit": "hectare",
+    "claimAmount": 24000,
+    "insuredAmount": 75000,
+    "estimatedYield": 4200,
+    "claimRequested": "NO",
+    "ApproveStatus": "Under Review",
+    "claimAmountRequested": 25000,
+
+    "disasterType": "Excess Rainfall",
+    "cropStageAtLoss": "Tillering",
+    "inspectionReport": "https://example.com/reports/rice_rainfall.pdf",
+    "geoBoundary": [
+      { "lat": 22.38, "lng": 88.17 },
+      { "lat": 22.39, "lng": 88.18 }
+    ],
+    "damagePercent": 35,
+    "farmerExpenditure": 12000,
+    "marketPricePerTon": 26000,
+    "documents": [
+      { "name": "Field Photos", "url": "https://example.com/docs/rain_photos.pdf" }
+    ]
+  },
+  {
+    "farmer": "692ab6830c013c1a8244ad48",
+    "policyNumber": "POL-2025-004",
+    "crop": "Rice",
+    "sowingDate": "2025-06-15",
+    "fieldArea": 1.5,
+    "areaUnit": "hectare",
+    "claimAmount": 18000,
+    "insuredAmount": 58000,
+    "estimatedYield": 3900,
+    "claimRequested": "NO",
+    "ApproveStatus": "Under Review",
+    "claimAmountRequested": 16000,
+
+    "disasterType": "Pest Attack",
+    "cropStageAtLoss": "Flowering",
+    "inspectionReport": "https://example.com/reports/rice_pest.pdf",
+    "geoBoundary": [
+      { "lat": 22.41, "lng": 88.23 },
+      { "lat": 22.42, "lng": 88.24 }
+    ],
+    "damagePercent": 30,
+    "farmerExpenditure": 9500,
+    "marketPricePerTon": 25500,
+    "documents": [
+      { "name": "Pest Damage Photos", "url": "https://example.com/docs/pest.pdf" }
+    ]
+  },
+  {
+    "farmer": "692ab6830c013c1a8244ad48",
+    "policyNumber": "POL-2025-005",
+    "crop": "Rice",
+    "sowingDate": "2025-06-05",
+    "fieldArea": 2.8,
+    "areaUnit": "hectare",
+    "claimAmount": 30000,
+    "insuredAmount": 92000,
+    "estimatedYield": 4500,
+    "claimRequested": "NO",
+    "ApproveStatus": "Under Review",
+    "claimAmountRequested": 28000,
+
+    "disasterType": "Flood",
+    "cropStageAtLoss": "Seedling",
+    "inspectionReport": "https://example.com/reports/rice_flood.pdf",
+    "geoBoundary": [
+      { "lat": 22.36, "lng": 88.15 },
+      { "lat": 22.37, "lng": 88.16 }
+    ],
+    "damagePercent": 50,
+    "farmerExpenditure": 14500,
+    "marketPricePerTon": 24000,
+    "documents": [
+      { "name": "Flood Images", "url": "https://example.com/docs/flood_rice.pdf" }
+    ]
+  },
+  {
+    "farmer": "692ab6830c013c1a8244ad48",
+    "policyNumber": "POL-2025-006",
+    "crop": "Rice",
+    "sowingDate": "2025-06-18",
+    "fieldArea": 1.8,
+    "areaUnit": "hectare",
+    "claimAmount": 20000,
+    "insuredAmount": 62000,
+    "estimatedYield": 4000,
+    "claimRequested": "NO",
+    "ApproveStatus": "Under Review",
+    "claimAmountRequested": 19000,
+
+    "disasterType": "Drought",
+    "cropStageAtLoss": "Panicle Initiation",
+    "inspectionReport": "https://example.com/reports/rice_drought.pdf",
+    "geoBoundary": [
+      { "lat": 22.45, "lng": 88.25 },
+      { "lat": 22.46, "lng": 88.26 }
+    ],
+    "damagePercent": 40,
+    "farmerExpenditure": 11000,
+    "marketPricePerTon": 27000,
+    "documents": [
+      { "name": "Drought Photos", "url": "https://example.com/docs/rice_drought.pdf" }
+    ]
+  },
+  {
+    "farmer": "692ab6830c013c1a8244ad48",
+    "policyNumber": "POL-2025-007",
+    "crop": "Rice",
+    "sowingDate": "2025-07-05",
+    "fieldArea": 2.4,
+    "areaUnit": "hectare",
+    "claimAmount": 26000,
+    "insuredAmount": 78000,
+    "estimatedYield": 4300,
+    "claimRequested": "NO",
+    "ApproveStatus": "Under Review",
+    "claimAmountRequested": 24000,
+
+    "disasterType": "Cyclone Damage",
+    "cropStageAtLoss": "Maturity",
+    "inspectionReport": "https://example.com/reports/rice_cyclone.pdf",
+    "geoBoundary": [
+      { "lat": 22.40, "lng": 88.20 },
+      { "lat": 22.41, "lng": 88.22 }
+    ],
+    "damagePercent": 45,
+    "farmerExpenditure": 13500,
+    "marketPricePerTon": 26500,
+    "documents": [
+      { "name": "Cyclone Damage Photos", "url": "https://example.com/docs/cyclone.pdf" }
+    ]
+  },
+  {
+    "farmer": "692ab6830c013c1a8244ad48",
+    "policyNumber": "POL-2025-008",
+    "crop": "Rice",
+    "sowingDate": "2025-06-25",
+    "fieldArea": 1.2,
+    "areaUnit": "hectare",
+    "claimAmount": 14000,
+    "insuredAmount": 50000,
+    "estimatedYield": 3600,
+    "claimRequested": "NO",
+    "ApproveStatus": "Under Review",
+    "claimAmountRequested": 13000,
+
+    "disasterType": "Stem Borer Infestation",
+    "cropStageAtLoss": "Tillering",
+    "inspectionReport": "https://example.com/reports/rice_stemborer.pdf",
+    "geoBoundary": [
+      { "lat": 22.35, "lng": 88.14 },
+      { "lat": 22.36, "lng": 88.15 }
+    ],
+    "damagePercent": 25,
+    "farmerExpenditure": 8500,
+    "marketPricePerTon": 25000,
+    "documents": [
+      { "name": "Inspection Photos", "url": "https://example.com/docs/stemborer.pdf" }
+    ]
+  },
+  {
+    "farmer": "692ab6830c013c1a8244ad48",
+    "policyNumber": "POL-2025-009",
+    "crop": "Rice",
+    "sowingDate": "2025-07-12",
+    "fieldArea": 3.0,
+    "areaUnit": "hectare",
+    "claimAmount": 34000,
+    "insuredAmount": 95000,
+    "estimatedYield": 4700,
+    "claimRequested": "NO",
+    "ApproveStatus": "Under Review",
+    "claimAmountRequested": 33000,
+
+    "disasterType": "Flash Flood",
+    "cropStageAtLoss": "Vegetative",
+    "inspectionReport": "https://example.com/reports/rice_flashflood.pdf",
+    "geoBoundary": [
+      { "lat": 22.32, "lng": 88.16 },
+      { "lat": 22.33, "lng": 88.17 }
+    ],
+    "damagePercent": 55,
+    "farmerExpenditure": 15200,
+    "marketPricePerTon": 24500,
+    "documents": [
+      { "name": "Flash Flood Photos", "url": "https://example.com/docs/flashflood.pdf" }
+    ]
+  },
+  {
+    "farmer": "692ab6830c013c1a8244ad48",
+    "policyNumber": "POL-2025-010",
+    "crop": "Rice",
+    "sowingDate": "2025-06-08",
+    "fieldArea": 2.1,
+    "areaUnit": "hectare",
+    "claimAmount": 22000,
+    "insuredAmount": 70000,
+    "estimatedYield": 4100,
+    "claimRequested": "NO",
+    "ApproveStatus": "Under Review",
+    "claimAmountRequested": 20000,
+
+    "disasterType": "Sheath Blight",
+    "cropStageAtLoss": "Heading",
+    "inspectionReport": "https://example.com/reports/rice_sheath_bligh.pdf",
+    "geoBoundary": [
+      { "lat": 22.42, "lng": 88.28 },
+      { "lat": 22.43, "lng": 88.29 }
+    ],
+    "damagePercent": 32,
+    "farmerExpenditure": 11800,
+    "marketPricePerTon": 26000,
+    "documents": [
+      { "name": "Disease Photos", "url": "https://example.com/docs/sheathblight.pdf" }
+    ]
+  },
+  {
+    "farmer": "692ab6830c013c1a8244ad48",
+    "policyNumber": "POL-2025-011",
+    "crop": "Rice",
+    "sowingDate": "2025-06-20",
+    "fieldArea": 1.6,
+    "areaUnit": "hectare",
+    "claimAmount": 17000,
+    "insuredAmount": 56000,
+    "estimatedYield": 3800,
+    "claimRequested": "NO",
+    "ApproveStatus": "Under Review",
+    "claimAmountRequested": 15000,
+
+    "disasterType": "Hailstorm",
+    "cropStageAtLoss": "Ripening",
+    "inspectionReport": "https://example.com/reports/rice_hailstorm.pdf",
+    "geoBoundary": [
+      { "lat": 22.47, "lng": 88.27 },
+      { "lat": 22.48, "lng": 88.28 }
+    ],
+    "damagePercent": 38,
+    "farmerExpenditure": 9600,
+    "marketPricePerTon": 25500,
+    "documents": [
+      { "name": "Hailstorm Images", "url": "https://example.com/docs/hailstorm_rice.pdf" }
+    ]
+  },
+  {
+    "farmer": "692ab6830c013c1a8244ad48",
+    "policyNumber": "POL-2025-0012",
+    "crop": "Rice",
+    "sowingDate": "2025-07-08",
+    "fieldArea": 2.0,
+    "areaUnit": "hectare",
+    "claimAmount": 21000,
+    "insuredAmount": 68000,
+    "estimatedYield": 4050,
+    "claimRequested": "NO",
+    "ApproveStatus": "Under Review",
+    "claimAmountRequested": 19500,
+
+    "disasterType": "Nutrient Deficiency",
+    "cropStageAtLoss": "Booting",
+    "inspectionReport": "https://example.com/reports/rice_nutrient.pdf",
+    "geoBoundary": [
+      { "lat": 22.29, "lng": 88.18 },
+      { "lat": 22.30, "lng": 88.19 }
+    ],
+    "damagePercent": 28,
+    "farmerExpenditure": 10200,
+    "marketPricePerTon": 26000,
+    "documents": [
+      { "name": "Soil Report", "url": "https://example.com/docs/soilreport.pdf" }
+    ]
+  }
+]
